@@ -5,7 +5,7 @@ longLabel H3K9me2 cutnrun of Embryonic Lung Tissue
 type bigWig
 #viewLimits 0:100
 visibility full
-maxHeightPixels 150:30:11
+maxHeightPixels 150:100:10
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 windowingFunction mean
@@ -13,6 +13,7 @@ priority 1.4
 configurable on
 autoScale on
 dragAndDrop subtracks
+smoothingWindow 4
 
 track less_120bp
 bigDataUrl http://ibibsc02.pmacs.upenn.edu/ibicore/Jon_Epstein_CHiPseq_Nikhita_2018_12/size_select/H3K9me2_RL.small.bigWig
