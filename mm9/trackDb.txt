@@ -20,7 +20,7 @@ shortLabel Small
 longLabel fun
 parent H3K9me2_all
 type bigWig
-color 180,102,255
+color 0,255,255
 
 track more_150bp
 bigDataUrl http://ibibsc02.pmacs.upenn.edu/ibicore/Jon_Epstein_CHiPseq_Nikhita_2018_12/size_select/H3K9me2_RL.big.bigWig
@@ -28,4 +28,4 @@ shortLabel Big
 longLabel fun2
 type bigWig
 parent H3K9me2_all
-color 136,102,255
+color 250,128,114
