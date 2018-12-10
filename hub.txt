@@ -1,3 +1,10 @@
+hub ucschubs
+shortLabel H3K9me2_cutnrun
+longLabel H3K9me2 cutnrun of Embryonic Lung Tissue
+genomesFile genomes.txt
+email ricardo3889@gmail.com
+
+
 track H3K9me2_all
 container multiWig
 shortLabel H3K9me2_cutnrun
@@ -30,4 +37,4 @@ type bigWig
 parent H3K9me2_all
 color 136,102,255
 
-email ricardo3889@gmail.com
+
