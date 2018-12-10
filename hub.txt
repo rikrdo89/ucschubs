@@ -2,4 +2,4 @@ hub ucschubs
 shortLabel H3K9me2_cutnrun
 longLabel H3K9me2 cutnrun of Embryonic Lung Tissue
 genomesFile genomes.txt
-email genome@soe.ucsc.edu
+email rlinares@upenn.edu
