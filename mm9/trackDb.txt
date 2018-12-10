@@ -14,7 +14,7 @@ configurable on
 autoScale on
 dragAndDrop subtracks
 
-track <120 Insert
+track less than 120 Insert
 bigDataUrl http://ibibsc02.pmacs.upenn.edu/ibicore/Jon_Epstein_CHiPseq_Nikhita_2018_12/size_select/H3K9me2_RL.small.bigWig
 shortLabel Small
 longLabel fun
@@ -22,7 +22,7 @@ parent H3K9me2_all
 type bigWig
 color 180,102,255
 
-track >150 Insert
+track more than 150 Insert
 bigDataUrl http://ibibsc02.pmacs.upenn.edu/ibicore/Jon_Epstein_CHiPseq_Nikhita_2018_12/size_select/H3K9me2_RL.big.bigWig
 shortLabel Big
 longLabel fun2
